@@ -25,11 +25,11 @@ public class Cadenas {
                     cadena.append(caracter);
                 }
 
-                System.out.println(cadena.toString());
+                System.out.println(cadena);
 
                 // Llamar a la aplicación "frecuencia" y guardar el resultado en el archivo
                 String resultadoFrecuencia = Frecuencia.contarFrecuenciaVocales(cadena.toString());
-                printWriter.println("Cadena: " + cadena.toString());
+                printWriter.println("Cadena: " + cadena);
                 printWriter.println("Frecuencia de vocales: " + resultadoFrecuencia);
             }
 

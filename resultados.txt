@@ -1,0 +1,6 @@
+Cadena: mus
+Frecuencia de vocales: 0 0 0 0 1
+Cadena: lbhagzohzpepap
+Frecuencia de vocales: 2 1 0 1 0
+Cadena: qvbcotfkz
+Frecuencia de vocales: 0 0 0 1 0

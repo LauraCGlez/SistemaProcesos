@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75846892-b983-4dec-8a40-8e2f936783a5" name="Changes" comment="" />
+    <list default="true" id="75846892-b983-4dec-8a40-8e2f936783a5" name="Changes" comment="Actividad 3">
+      <change afterPath="$PROJECT_DIR$/src/Actividad4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +23,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2VvI0x072203YuaiB4BAsGWRlYI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/lauracglez/ProcesosyServicios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Frecuencia">
+}]]></component>
+  <component name="RunManager" selected="Application.Actividad4">
+    <configuration name="Actividad4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Actividad4" />
+      <module name="ProcesosyServicios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cadenas" />
       <module name="ProcesosyServicios" />
@@ -51,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Actividad4" />
         <item itemvalue="Application.Frecuencia" />
         <item itemvalue="Application.Cadenas" />
       </list>
@@ -64,6 +85,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695709911970</updated>
+      <workItem from="1696542757293" duration="399000" />
+      <workItem from="1697549803134" duration="635000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios de Procesos y Sistemas">
       <created>1695725900420</created>
@@ -72,11 +95,39 @@
       <option name="project" value="LOCAL" />
       <updated>1695725900420</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Actividad 3">
+      <option name="closed" value="true" />
+      <created>1696542954525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696542954525</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Actividad 3">
+      <option name="closed" value="true" />
+      <created>1696542992832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696542992832</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Actividad 3">
+      <option name="closed" value="true" />
+      <created>1696543004479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696543004479</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicios de Procesos y Sistemas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios de Procesos y Sistemas" />
+    <MESSAGE value="Actividad 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actividad 3" />
   </component>
 </project>

@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75846892-b983-4dec-8a40-8e2f936783a5" name="Changes" comment="Actividades 2.1 y 2.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="75846892-b983-4dec-8a40-8e2f936783a5" name="Changes" comment="Actividades 2.3">
+      <change afterPath="$PROJECT_DIR$/src/tienda/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tienda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tienda/Tendera.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ContadorDeVocales">
+  <component name="RunManager" selected="Application.tienda.Main">
     <configuration name="Actividad4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Actividad4" />
       <module name="ProcesosyServicios" />
@@ -80,13 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frecuencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Frecuencia" />
-      <module name="ProcesosyServicios" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pinpon.Main" />
       <module name="ProcesosyServicios" />
@@ -100,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tienda.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tienda.Main" />
+      <module name="ProcesosyServicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tienda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tienda.Main" />
         <item itemvalue="Application.ContadorDeVocales" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FibonacciThread" />
         <item itemvalue="Application.Actividad4" />
-        <item itemvalue="Application.Frecuencia" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +130,7 @@
       <workItem from="1697549803134" duration="1552000" />
       <workItem from="1698875457259" duration="1080000" />
       <workItem from="1699204629109" duration="18000" />
+      <workItem from="1699472034428" duration="1693000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios de Procesos y Sistemas">
       <created>1695725900420</created>
@@ -170,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698875804337</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Actividades 2.3">
+      <option name="closed" value="true" />
+      <created>1699472184532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699472184532</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +198,7 @@
     <MESSAGE value="Actividad 3" />
     <MESSAGE value="Actividad 4" />
     <MESSAGE value="Actividades 2.1 y 2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actividades 2.1 y 2.2" />
+    <MESSAGE value="Actividades 2.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actividades 2.3" />
   </component>
 </project>
